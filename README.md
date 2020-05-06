@@ -1,1 +1,1 @@
-# dene
+# BMT - 311 VERİTABANI YÖNETİM SİSTEMLERİ
